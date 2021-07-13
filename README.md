@@ -10,7 +10,7 @@ The You Gotta Give License 1.0 (YGGL 1.0 for short) has a straightforward idea t
 1. This software is free to use, it is completely user funded. You have the right to:
     1. Use the software for any purpose
     2. Distribute this software in any way that is in accordance to this license
-3. If you use this software you will:
+3. If you use this software you will have the following rights:
      1. There are no warranties offered or implied, none. 
      2. No matter what happens to you in anyway this software can't be found to cause damages. It's just code on a website, it's not an actual product.
 4. If no one gives, the project will go dark. 
